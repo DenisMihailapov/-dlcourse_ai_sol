@@ -1,2 +1,3 @@
-# dlcourse_ai_sol
-My solutions for sim0nsays/dlcourse_ai 
+# NSU_FIT_DeepLearning
+My solutions for fit nsu (master) deeplearning course
+
